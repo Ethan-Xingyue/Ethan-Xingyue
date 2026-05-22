@@ -102,14 +102,6 @@ motto:        "Learning is a lifelong journey."
 
 ---
 
-### <img src="https://media.giphy.com/media/ZE2dXJVPj3l1XB99FE/giphy.gif" width="28"> Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ethan-Xingyue/Ethan-Xingyue/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
 ### <img src="https://media.giphy.com/media/VgGDAickZKEwXdYtS3/giphy.gif" width="28"> Connect with Me
 
 <div align="center">
