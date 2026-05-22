@@ -85,14 +85,12 @@ motto:        "Learning is a lifelong journey."
 
 <div align="center">
 
-<a href="https://github.com/Ethan-Xingyue">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ethan-Xingyue&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Xingyue&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
+<img src="https://raw.githubusercontent.com/Ethan-Xingyue/Ethan-Xingyue/main/metrics.svg" alt="GitHub Metrics" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ethan-Xingyue&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/Ethan-Xingyue/Ethan-Xingyue/main/metrics.languages.svg" alt="Top Languages" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ethan-Xingyue&theme=tokyonight&hide_border=true" width="48%" />
 
 <br/>
 
