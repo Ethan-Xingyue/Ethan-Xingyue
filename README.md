@@ -51,34 +51,24 @@
 
 **Languages**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=go,java,python,ts&theme=dark)](https://skillicons.dev)
 
 **AI / Agent**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge&logoColor=white)
-![SGLang](https://img.shields.io/badge/SGLang-EE4444?style=for-the-badge&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://skillicons.dev)
+[![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](#)
+[![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](#)
+[![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)](#)
+[![vLLM](https://img.shields.io/badge/-vLLM-30A2FF?style=flat-square&logoColor=white)](#)
+[![SGLang](https://img.shields.io/badge/-SGLang-EE4444?style=flat-square&logoColor=white)](#)
 
 **Backend & Infra**
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+[![Backend](https://skillicons.dev/icons?i=spring,kubernetes,docker,redis,mysql,kafka&theme=dark)](https://skillicons.dev)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=git,linux,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -87,6 +77,22 @@
 ### <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> GitHub Stats
 
 <div align="center">
+
+<!-- 🐍 Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ethan-Xingyue/Ethan-Xingyue/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ethan-Xingyue/Ethan-Xingyue/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Ethan-Xingyue/Ethan-Xingyue/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br/>
+<br/>
+
+<!-- 🧊 3D Isometric Contributions -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+
+<br/>
+<br/>
 
 <img src="https://raw.githubusercontent.com/Ethan-Xingyue/Ethan-Xingyue/main/metrics.svg" alt="GitHub Metrics" />
 
