@@ -1,12 +1,5 @@
 <div align="center">
 
-<!-- 顶部动态打字标题 -->
-<a href="https://github.com/Ethan-Xingyue">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there%2C+I'm+Ethan+%F0%9F%91%8B;AI+Agent+Engineer+%7C+Apache+Committer;Go+%C2%B7+Java+%C2%B7+Python+%C2%B7+TypeScript;Always+learning%2C+always+shipping&font=Fira%20Code&center=true&width=600&height=50&color=58a6ff&vCenter=true&size=24&pause=1000">
-</a>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Ethan-Xingyue&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 </div>
