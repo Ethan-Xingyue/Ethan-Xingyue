@@ -16,7 +16,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 关于我 / About Me
 
 ```yaml
-name:         Ethan (星月)
+name:         xingyue
 role:         AI Agent Engineer
 company:      Humanify
 location:     China 🇨🇳
