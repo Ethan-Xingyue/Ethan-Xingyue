@@ -21,7 +21,7 @@
 </div>
 
 🌐 I'm currently focused on **Agentic Workflow**, **LLM Infra**, and **Distributed Systems**.
-🐼 Born 2004.05.12 · Hangzhou, China. 📍 Based in 杭州.
+🐼 Born 2004.05 📍 Based in 杭州.
 
 [![Gmail](https://img.shields.io/badge/Gmail-xingyue%40apache.org-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:xingyue@apache.org)
 [![Apache](https://img.shields.io/badge/Apache-Committer-D22128?style=flat&logo=apache&logoColor=white)](https://people.apache.org/)
