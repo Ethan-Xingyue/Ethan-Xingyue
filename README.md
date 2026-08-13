@@ -25,12 +25,14 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-xingyue%40apache.org-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:xingyue@apache.org)
 [![Apache](https://img.shields.io/badge/Apache-Committer-D22128?style=flat&logo=apache&logoColor=white)](https://people.apache.org/)
+[![PowerContext](https://img.shields.io/badge/PowerContext-Contributor-181717?style=flat&logo=github&logoColor=white)](https://github.com/oceanbase/powercontext)
 
 #### 💼 Work Experience
 - [**Humanify**](https://humanify.io/) — AI Agent Engineer · 构建生产级 Agent 运行时（planning、tool routing、eval pipeline）
 
 #### 💻 Open Source Experience
 - [Apache Seata-Go](https://github.com/apache/incubator-seata-go) — **Committer** · 分布式事务 Go 实现核心模块
+- [OceanBase PowerContext](https://github.com/oceanbase/powercontext) — **Contributor** · Agent 项目级持久记忆层（PowerMem 2.0）
 - AI Agent OSS contributor · 多个 Agent 相关项目维护
 
 #### 🌱 Currently Exploring
